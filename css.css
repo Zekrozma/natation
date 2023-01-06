@@ -1,0 +1,16 @@
+#specil{
+    text-transform: bold;
+    text-align: center;
+   
+} 
+body{
+    background-color: blue ;
+}
+a:hover{
+    
+    text-decoration-color: blueviolet;
+}
+body {
+    background-image: url(https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/f/3/2f3c2b936a_50185294_ocean-plus-chaud.jpg);
+    background-repeat: no-repeat;
+  }
